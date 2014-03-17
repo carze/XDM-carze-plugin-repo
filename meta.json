@@ -1,0 +1,22 @@
+{
+    "name": "XDM carze repo", 
+    "info_url": "https://github.com/carze/XDM-pannal-plugin-repo/",
+    "plugins": {
+        "de.carze.traktanime": [
+            {
+                "major_version": 0, 
+                "minor_version": 1, 
+                "name": "TraktAnime", 
+                "type": "Provider", 
+                "format": "zip", 
+                "desc": "Anime show info from http://trakt.tv. Get your api key from http://trakt.tv/settings/api", 
+                "xdm_version": [
+                    0, 
+                    5, 
+                    18
+                ], 
+                "download_url": "https://github.com/carze/XDM-pannal-plugin-repo/archive/master.zip"
+            }
+        ], 
+    }
+}
