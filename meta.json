@@ -1,6 +1,6 @@
 {
     "name": "XDM carze repo", 
-    "info_url": "https://github.com/carze/XDM-pannal-plugin-repo/",
+    "info_url": "https://github.com/carze/XDM-carze-plugin-repo/",
     "plugins": {
         "de.carze.traktanime": [
             {
@@ -15,7 +15,7 @@
                     5, 
                     18
                 ], 
-                "download_url": "https://github.com/carze/XDM-pannal-plugin-repo/archive/master.zip"
+                "download_url": "https://github.com/carze/XDM-carze-plugin-repo/archive/master.zip"
             }
         ]
     }
