@@ -18,7 +18,7 @@
                 "download_url": "https://github.com/carze/XDM-carze-plugin-repo/archive/master.zip"
             },
         ],
-        "de.carze.showrenamer": [
+        "de.carze.element.showrenamer": [
             {
                 "major_version": 0, 
                 "minor_version": 1, 
