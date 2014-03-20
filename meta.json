@@ -17,22 +17,6 @@
                 ], 
                 "download_url": "https://github.com/carze/XDM-carze-plugin-repo/archive/master.zip"
             },
-        ],
-        "de.carze.showrenamer": [
-            {
-                "major_version": 0, 
-                "minor_version": 1, 
-                "name": "Rename Show Title", 
-                "type": "SearchTermFilter", 
-                "format": "zip", 
-                "desc": "Renames a show for all searches while keeping intact the rest of the query",
-                "xdm_version": [
-                    0, 
-                    5, 
-                    18
-                ], 
-                "download_url": "https://github.com/carze/XDM-carze-plugin-repo/archive/master.zip"
-            }
         ]
     }
 }
