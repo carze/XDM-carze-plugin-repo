@@ -31,7 +31,7 @@ class ShowRenamer(SearchTermFilter):
     but allow replacing of the <TITLE> element.
     """
     version = "0.1"
-    identifier = 'de.carze.element.showrenamer'
+    identifier = 'de.carze.showrenamer'
     screenName = 'Replace Name To Look For'
     addMediaTypeOptions = "runFor"
     single = True
