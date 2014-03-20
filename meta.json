@@ -22,7 +22,7 @@
             {
                 "major_version": 0, 
                 "minor_version": 1, 
-                "name": "Rename Show Title", 
+                "name": "ShowRenamer", 
                 "type": "SearchTermFilter", 
                 "format": "zip", 
                 "desc": "Renames a show for all searches while keeping intact the rest of the query",
