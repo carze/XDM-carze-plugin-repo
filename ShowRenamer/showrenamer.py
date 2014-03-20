@@ -53,8 +53,9 @@ class ShowRenamer(SearchTermFilter):
         if len(replace_name):
             for term in terms:
                 new_terms.append(term.replace(original_name, replace_name))
- 
-            log.info("Now searching for %s" % ", ".join(new_terms))
+        
+            message = "Now searching for %s" % ", ".join(new_terms)
+            log.info(message)
             createGenericEvent(element, "filter", message)
 
         return new_terms
