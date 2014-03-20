@@ -22,7 +22,7 @@
 from xdm.plugins import *
 from xdm.tasks import createGenericEvent
 
-class ModifyName(SearchTermFilter):
+class ShowRenamer(SearchTermFilter):
     """
     This plugin attempts to rename a show based off a user-provided replacement. 
 
