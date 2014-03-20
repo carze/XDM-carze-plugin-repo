@@ -32,12 +32,12 @@ class ShowRenamer(SearchTermFilter):
     """
     version = "0.1"
     identifier = 'de.carze.showrenamer'
-    screenName = 'Replace Name To Look For'
+    screenName = 'Rename Show Title'
     addMediaTypeOptions = "runFor"
     single = True
     elementConfig = {
-        'original_name': ''
-        'look_for_instead': '',
+        'original_name': '',
+        'look_for_instead': ''
     }
 
     config_meta = {'plugin_desc': "Allows for replacement of a show name in case of the scrapped name not matching scene releases."}
